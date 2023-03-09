@@ -1,0 +1,8 @@
+{
+  "name": "alacritty-config",
+  "devDependencies": {
+    "@commitlint/cli": "^17.4.2",
+    "@commitlint/config-conventional": "^17.4.2",
+    "cz-conventional-changelog": "^3.3.0"
+  }
+}
